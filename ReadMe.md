@@ -5,6 +5,10 @@ This AppleScript creates a database schema from [mysql](http://www.mysql.com) ta
 
 ![db-schema2omnigraffle ScreenShot](dbschema2og.png "db-schema2omnigraffle db schema")
 
+The following youtube video shows the AppleScript in action creating a new document from a mysql database:
+
+![db-schema2omnigraffle ScreenShot](ScreenShot.png "db-schema2omnigraffle ScreenShot")
+
 https://www.youtube.com/watch?v=6rp26-ds1dY
 
 
